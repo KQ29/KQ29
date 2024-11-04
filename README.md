@@ -25,7 +25,7 @@ I am an undergraduate pursuing a Bachelor’s degree in Computer Science with a 
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KQ29&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=KQ29&theme=aura&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KQ29&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KQ29&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
